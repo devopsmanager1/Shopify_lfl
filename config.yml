@@ -1,0 +1,11 @@
+development:
+  password: e8345bc8d5b3e0d23f347154ad903480
+  theme_id: "160157204754"
+  store: https://80e7ec-2.myshopify.com/
+  ignore_files:
+  - config.yml
+  - assets\app\
+  - node_modules\
+  - config\settings_data.json
+  - config\settings_schema.jsons
+  - assets\algolia_config.js.liquid
